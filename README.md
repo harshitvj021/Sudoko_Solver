@@ -2,7 +2,9 @@
 
 _Overview_
 
-This project is a Sudoku solver implemented using HTML and JavaScript. It provides an interactive web interface where users can input Sudoku puzzles and get solutions instantly.
+This project is a Sudoku solver implemented using HTML and JavaScript. 
+
+It provides an interactive web interface where users can input Sudoku puzzles and get solutions instantly.
 
 _Features_
 
