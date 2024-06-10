@@ -20,7 +20,7 @@ _Installation_
 
 No installation is required. 
 
-Simply open the index.html file in any modern web browser.
+Simply  open the index.html file in any modern web browser.
 
 _Usage_
 
