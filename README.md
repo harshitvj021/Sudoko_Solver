@@ -1,33 +1,15 @@
 **Sudoku Solver**
 
-_Overview_
+Understanding the Tic-Tac-Toe Game
 
-This project is a Sudoku solver implemented using HTML and JavaScript. 
+Objective: Two players, X and O, take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
-It provides an interactive web interface where users can input Sudoku puzzles and get solutions instantly.
+Constraints:
 
-_Features_
+Players alternate turns.
 
-Interactive Grid: An easy-to-use 9x9 grid for entering Sudoku puzzles.
+A mark (either X or O) is placed in an empty cell.
 
-Instant Solve: Solves the puzzle at the click of a button.
+The game ends when a player wins or when there are no empty cells left, resulting in a draw.
 
-Validation: Ensures the input puzzle is valid and provides appropriate feedback.
-
-Clear Board: Option to clear the board and start over.
-
-_Installation_
-
-No installation is required. 
-
-Simply  open the index.html file in any modern web browser.
-
-_Usage_
-
-Open the HTML file: Open index.html in your preferred web browser.
-
-Enter the Puzzle: Click on the cells of the grid and enter numbers (1-9) to input your Sudoku puzzle.
-
-Solve the Puzzle: Click the "Solve" button to find the solution.
-
-Clear the Board: Click the "Clear" button to reset the grid.
+**<p align='center'>You can find the website live <a href="https://elegant-donut-668f12.netlify.app/">here</a></p>**
